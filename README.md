@@ -12,4 +12,4 @@ Other small modifications for better fit with the Waveshare 4.3" panel.
 
 [STL](/STL/)
 
-![Picture](Images/Extended%20Mount.jpg)
+![Picture](Images/Extended-Mount.jpg)
